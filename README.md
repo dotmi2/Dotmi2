@@ -1,5 +1,5 @@
 ## Hi there 👋
-## my name: Dotmi2(东米二)
+## my name: Dotmi2
 芝士一个学生
 <!--
 **dotmi2/Dotmi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
